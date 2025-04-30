@@ -1,7 +1,6 @@
 # Sumário
 
-* 🏠 [Documentação Central da Plataforma Moodle](home.md)
-
+* 🏠 [Documentação Central da Plataforma Moodle](./)
 * 📚 **Manuais Moodle**
   * 🎓 [Manual do Aluno](manual-aluno-moodle.md)
     * 🔸 [Introdução](manual-aluno-moodle.md#introdução)
@@ -82,4 +81,3 @@
       * ➡️ [Configuração de Conclusão Condicional](manual-moderador-moodle.md#configuração-de-conclusão-condicional)
       * ➡️ [Criação de Cursos Modulares (Metacursos)](manual-moderador-moodle.md#criação-de-cursos-modulares-metacursos)
       * ➡️ [Liberação Progressiva de Conteúdo](manual-moderador-moodle.md#liberação-progressiva-de-conteúdo)
-
