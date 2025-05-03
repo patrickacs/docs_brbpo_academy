@@ -6,7 +6,7 @@ Bem-vindo à documentação central da plataforma Moodle da nossa empresa. Este 
 
 A plataforma Moodle é uma ferramenta robusta e versátil que utilizamos para capacitação, treinamento e desenvolvimento de nossos colaboradores. Para atender às diferentes necessidades de cada perfil de usuário, desenvolvemos manuais específicos que contemplam todas as funcionalidades relevantes para cada função.
 
-## 🧩 Sobre o Moodle
+## 🧩 Sobre a BRBO Academy
 
 O Moodle (Modular Object-Oriented Dynamic Learning Environment) é um sistema de gestão de aprendizagem de código aberto, projetado para oferecer aos educadores, administradores e alunos um ambiente integrado único, robusto e seguro para aprendizado personalizado.
 
@@ -20,7 +20,7 @@ Para acessar a plataforma Moodle da nossa empresa:
 
 1. Abra seu navegador preferido (recomendamos Chrome, Firefox ou Edge nas versões mais atualizadas)
 2. Digite o endereço da plataforma na barra de navegação
-3. Na página de login, utilize as mesmas credenciais da intranet da empresa/Windows
+3. Na página de login, utilize as mesmas credenciais da intranet da empresa/Windows (Somente usuários que são funcionários da BRBPO conseguem acessar)
 4. Clique em "Acessar"
 
 **⚠️ Observação importante**: O acesso à plataforma é integrado com o sistema da intranet da empresa. Portanto, suas credenciais de login são as mesmas que você utiliza para acessar seu computador e demais sistemas internos.
@@ -84,7 +84,7 @@ Cada manual segue uma estrutura lógica e intuitiva, com instruções detalhadas
 Caso encontre dificuldades que não estejam contempladas nos manuais ou precise de suporte adicional:
 
 1. **Dentro da plataforma**: Procure por ícones de ajuda (?) ao lado de campos e funções
-2. **Suporte técnico**: Entre em contato com nossa equipe de TI pelo e-mail \[suporte@empresa.com]
+2. **Suporte técnico**: Entre em contato com nossa equipe de TI pelo contato 61 3035-500&#x20;
 3. **Dúvidas sobre conteúdos**: Use os fóruns de dúvidas disponíveis em cada curso ou contate o instrutor responsável
 4. **Problemas de acesso**: Se tiver problemas com seu login, entre em contato com o departamento de TI
 
