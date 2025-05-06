@@ -10,7 +10,7 @@ A plataforma Moodle é uma ferramenta robusta e versátil que utilizamos para ca
 
 O Moodle (Modular Object-Oriented Dynamic Learning Environment) é um sistema de gestão de aprendizagem de código aberto, projetado para oferecer aos educadores, administradores e alunos um ambiente integrado único, robusto e seguro para aprendizado personalizado.
 
-Em nossa empresa, utilizamos o Moodle com o tema Boost Magnific, que proporciona uma experiência visual moderna e intuitiva, mantendo todas as funcionalidades essenciais da plataforma.
+Na BRBPO, utilizamos o Moodle com o tema Boost Magnific, que proporciona uma experiência visual moderna e intuitiva, mantendo todas as funcionalidades essenciais da plataforma.
 
 ![Logo Moodle](https://moodle.org/theme/image.php/moodleorg/theme_moodleorg/1680650273/moodle_logo_small)
 
@@ -21,7 +21,8 @@ Para acessar a plataforma Moodle da nossa empresa:
 1. Abra seu navegador preferido (recomendamos Chrome, Firefox ou Edge nas versões mais atualizadas)
 2. Digite o endereço da plataforma na barra de navegação
 3. Na página de login, utilize as mesmas credenciais da intranet da empresa/Windows (Somente usuários que são funcionários da BRBPO conseguem acessar)
-4. Clique em "Acessar"
+4. Ex: nome.sobrenome (Mesmo do Windows)/ Senha
+5. Clique em "Acessar"
 
 **⚠️ Observação importante**: O acesso à plataforma é integrado com o sistema da intranet da empresa. Portanto, suas credenciais de login são as mesmas que você utiliza para acessar seu computador e demais sistemas internos.
 
@@ -91,6 +92,8 @@ Caso encontre dificuldades que não estejam contempladas nos manuais ou precise 
 ## 🔄 Atualizações da Documentação
 
 Esta documentação é regularmente atualizada para refletir as mudanças e melhorias implementadas na plataforma. Verifique sempre se está consultando a versão mais recente dos manuais.
+
+Também para mais informações adicionais e documentações de Manuais de acesso, acesse a documentação oficial do [Moodle](https://docs.moodle.org/all/pt_br/P%C3%A1gina_principal).
 
 ***
 
